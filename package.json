@@ -1,0 +1,8 @@
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atako/frontend-project-lvl1.git",
+  "author": "Dmitry Ryumkin <riumkin@gmail.com>",
+  "license": "MIT"
+}
